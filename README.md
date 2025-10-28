@@ -47,6 +47,10 @@ Datos de Uso Diario:
   Tiempo estimado
 Duración total: **3 meses**
 
+A continuacion se adjuntan los documentos del rediseño del proyecto y su desarrollo:
+
+[Priorizacion de requistos .pdf](https://github.com/user-attachments/files/23197292/Priorizacion.de.requistos.pdf)
+
 
 ## 👩‍💻 Equipo de desarrollo
 - SofTech Solutions – Proyecto académico de SENATIC  
