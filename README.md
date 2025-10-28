@@ -22,6 +22,7 @@ El propósito de este repositorio es **documentar y rediseñar el proceso comple
 🐕 Mascotas atendidas: 800 por mes
 💰 Ingresos: $45 millones mensuales
 
+
 **Actores del sistema**
 **Principales**:
 Administrador (Ana López):  Maneja configuraciones y reportes
@@ -32,6 +33,7 @@ Recepcionista (María/Patricia):  Agenda citas y factura
 
 **Secundarios**:
  Dueño de mascota:  Recibe recordatorios
+
 
 **Informacion para la priorizacion**
 Datos de Uso Diario:
