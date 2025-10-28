@@ -25,7 +25,9 @@ El propósito de este repositorio es **documentar y rediseñar el proceso comple
 **Actores del sistema**
 **Principales**:
 Administrador (Ana López):  Maneja configuraciones y reportes
+
 Veterinario (Dr. Carlos):  Hace consultas médicas
+
 Recepcionista (María/Patricia):  Agenda citas y factura
 
 **Secundarios**:
