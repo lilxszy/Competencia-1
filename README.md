@@ -16,6 +16,29 @@ El propósito de este repositorio es **documentar y rediseñar el proceso comple
 - **Wireframes** de las 5 pantallas principales  
 - **Repositorio Git** correctamente organizado  
 
+ **Datos básicos de la clínica**
+🏢 Clínica: Veterinaria "Huellitas Felices" - Ibagué, Tolima
+ 👥 Empleados: 15 personas total
+ 🐕 Mascotas atendidas: 800 por mes
+ 💰 Ingresos: $45 millones mensuales
+
+**Actores del sistema**
+**Principales**:
+Administrador (Ana López):  Maneja configuraciones y reportes
+Veterinario (Dr. Carlos):  Hace consultas médicas
+Recepcionista (María/Patricia):  Agenda citas y factura
+**Secundarios**:
+ Dueño de mascota:  Recibe recordatorios
+
+**Informacion para la priorizacion**
+Datos de Uso Diario:
+- Agenda de citas: 40 citas diarias ⭐⭐⭐⭐⭐
+- Facturación: $1.5 millones diarios ⭐⭐⭐⭐⭐
+- Registro mascotas: 15 nuevas semanales ⭐⭐⭐⭐
+- Reportes: 1 vez por semana ⭐⭐
+- Recordatorios: Automático ⭐⭐⭐
+
+
   Tiempo estimado
 Duración total: **3 meses**
 
