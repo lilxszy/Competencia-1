@@ -32,6 +32,8 @@ Recepcionista (María/Patricia):  Agenda citas y factura
 
 **Secundarios**:
  Dueño de mascota:  Recibe recordatorios
+
+
 **Informacion para la priorizacion**
 Datos de Uso Diario:
 
