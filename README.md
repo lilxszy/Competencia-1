@@ -18,9 +18,9 @@ El propósito de este repositorio es **documentar y rediseñar el proceso comple
 
  **Datos básicos de la clínica**
 🏢 Clínica: Veterinaria "Huellitas Felices" - Ibagué, Tolima
- 👥 Empleados: 15 personas total
- 🐕 Mascotas atendidas: 800 por mes
- 💰 Ingresos: $45 millones mensuales
+👥 Empleados: 15 personas total
+🐕 Mascotas atendidas: 800 por mes
+💰 Ingresos: $45 millones mensuales
 
 **Actores del sistema**
 **Principales**:
