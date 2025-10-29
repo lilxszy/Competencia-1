@@ -58,7 +58,8 @@ Diagrama casos de uso: https://lucid.app/lucidchart/a0ffa4b4-41cc-41f5-ad0d-8401
 Wireframes: https://miro.com/welcomeonboard/anA2Y3dzVFlTR3ZMSjVYRWJwM0ZlMGIwTUVrK21tSkJMYlI3VytmOEE0cmhKakxIRndoV1E4a2FRYlVsWGZkQ2F5alpDMTQxTXk4dXljTmxzSkwzSzQrSU5qa3BxNDFsMlkyTStRVC9Yd2laeWM4aUZ5bU1jWDVDd3IrcHI5UXlBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=19503628766
 
 ## 👩‍💻 Equipo de desarrollo
-- SofTech Solutions – Proyecto académico de SENATIC  
+- SofTech Solutions – Proyecto académico de SENATIC
+- Equipo de trabajo: Ana Sofia Guarin, Laura Ximena Gutierrez, Laura Fernanda Guarin y Leidy Juliana Parra
 
 
 
