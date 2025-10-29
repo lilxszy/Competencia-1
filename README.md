@@ -49,8 +49,11 @@ Duración total: **3 meses**
 
 A continuacion se adjuntan los documentos del rediseño del proyecto y su desarrollo:
 [ERS rescatando el proyecto softech.docx (1).pdf](https://github.com/user-attachments/files/23200197/ERS.rescatando.el.proyecto.softech.docx.1.pdf)
+
 [Priorizacion de requistos .pdf](https://github.com/user-attachments/files/23197292/Priorizacion.de.requistos.pdf)
+
 Diagrama casos de uso: https://lucid.app/lucidchart/a0ffa4b4-41cc-41f5-ad0d-84012be858da/edit?viewport_loc=-730%2C-370%2C2492%2C1460%2C0_0&invitationId=inv_ee10f76d-2e9c-43a3-8cf1-0aa4c209f5bb
+
 Wireframes: https://miro.com/welcomeonboard/anA2Y3dzVFlTR3ZMSjVYRWJwM0ZlMGIwTUVrK21tSkJMYlI3VytmOEE0cmhKakxIRndoV1E4a2FRYlVsWGZkQ2F5alpDMTQxTXk4dXljTmxzSkwzSzQrSU5qa3BxNDFsMlkyTStRVC9Yd2laeWM4aUZ5bU1jWDVDd3IrcHI5UXlBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=19503628766
 
 ## 👩‍💻 Equipo de desarrollo
