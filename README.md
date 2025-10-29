@@ -48,9 +48,10 @@ Datos de Uso Diario:
 Duración total: **3 meses**
 
 A continuacion se adjuntan los documentos del rediseño del proyecto y su desarrollo:
-[ERS rescatando el proyecto softech.docx (1).pdf](https://github.com/user-attachments/files/23200197/ERS.rescatando.el.proyecto.softech.docx.1.pdf)
 
-[Priorizacion de requistos .pdf](https://github.com/user-attachments/files/23197292/Priorizacion.de.requistos.pdf)
+Documento: [ERS rescatando el proyecto softech.docx (1).pdf](https://github.com/user-attachments/files/23200197/ERS.rescatando.el.proyecto.softech.docx.1.pdf)
+
+Priorizacion de requisitos: [Priorizacion de requistos .pdf](https://github.com/user-attachments/files/23197292/Priorizacion.de.requistos.pdf)
 
 Diagrama casos de uso: https://lucid.app/lucidchart/a0ffa4b4-41cc-41f5-ad0d-84012be858da/edit?viewport_loc=-730%2C-370%2C2492%2C1460%2C0_0&invitationId=inv_ee10f76d-2e9c-43a3-8cf1-0aa4c209f5bb
 
