@@ -49,7 +49,7 @@ Duración total: **3 meses**
 
 A continuacion se adjuntan los documentos del rediseño del proyecto y su desarrollo:
 
-Documento: [ERS rescatando el proyecto softech.docx (2).pdf](https://github.com/user-attachments/files/23213648/ERS.rescatando.el.proyecto.softech.docx.2.pdf)
+Documento: [ERS rescatando el proyecto softech.docx (3).pdf](https://github.com/user-attachments/files/23213671/ERS.rescatando.el.proyecto.softech.docx.3.pdf)
 
 Priorizacion de requisitos: [Priorizacion de requistos .pdf](https://github.com/user-attachments/files/23197292/Priorizacion.de.requistos.pdf)
 
